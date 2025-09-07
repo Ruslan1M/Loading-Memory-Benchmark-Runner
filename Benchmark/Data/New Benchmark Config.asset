@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d6c11b8f63f4fbd8ee6edee4e2568be, type: 3}
+  m_Name: New Benchmark Config
+  m_EditorClassIdentifier: 
+  runMode: 0
+  scenes:
+  - ShopSample
+  autoSyncScenes: 0
+  includeDisabledScenes: 0
+  iterations: 3
+  sampleIntervalMs: 50
+  stabilizationMs: 1000
+  unloadUnusedAssets: 1
+  forceGCBeforeRun: 1
+  buildLikePlayer: 0
+  autostartInPlayer: 0
